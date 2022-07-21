@@ -15,7 +15,9 @@ As "silver tsunami" begins to make an impact 72,458 roles in the company will ne
 
 **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?** <br/> 
 There are more than enough retirement-ready employees to mentor current employees, but not enough current employees to replace them within the compnay at present as can be shown here: <br/>
+
 ![This is an image](https://github.com/smwhng/Pewlett-Hackard-Analysis/blob/main/retirement_counts.PNG) <br/>
-Retirement Count <br/>
+* *Retirement Count Above* * <br/>
+
 ![This is an image](https://github.com/smwhng/Pewlett-Hackard-Analysis/blob/main/mentorship_eligible_counts.PNG) <br/>
-Eligibility Count <br/>
+* *Eligibility Count Above* * <br/>
