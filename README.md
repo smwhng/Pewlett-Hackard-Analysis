@@ -10,9 +10,9 @@ The purpose of this analysis was to take data collected from the Pewlett-Hackard
 - Of the employees who are eligible for the mentorship program just under half are already in senior positions
 
 ## Summary
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?  
     - As "silver tsunami" begins to make an impact 72,458 roles in the company will need to be filled.
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?  
     - There are more than enough retirement-ready employees to mentor current employees, but not enough current employees to replace them within the compnay at present as can be shown here:
         - ![This is an image](https://github.com/smwhng/Pewlett-Hackard-Analysis/blob/main/retirement_counts.PNG)
         Retirement Count
